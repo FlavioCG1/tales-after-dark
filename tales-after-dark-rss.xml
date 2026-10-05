@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Tales After Dark</title>
+  <description>A new scary story every night, told by Silas. Original horror fiction to keep you up after dark.
+
+AI Generated</description>
+  <language>en</language>
+  <itunes:author>Flavio Garcia</itunes:author>
+  <itunes:category text="Fiction">
+    <itunes:category text="Drama"/>
+  </itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:owner>
+    <itunes:name>Flavio Garcia</itunes:name>
+    <itunes:email>flaviogarcia90@yahoo.com</itunes:email>
+  </itunes:owner>
+  <atom:link href="https://flaviocg1.github.io/tales-after-dark/tales-after-dark-rss.xml" rel="self" type="application/rss+xml"/>
+  <itunes:image href="https://flaviocg1.github.io/tales-after-dark/tales-after-dark-logo.png"/>
+  <image>
+    <url>https://flaviocg1.github.io/tales-after-dark/tales-after-dark-logo.png</url>
+    <title>Tales After Dark</title>
+    <link>https://flaviocg1.github.io/tales-after-dark/</link>
+  </image>
+  <item>
+    <title>The Frequency</title>
+    <description>Silas tells the story of Daniel Cole, who inherits his grandmother's house and finds a shortwave radio that broadcasts the names of the soon-to-die at 3:33 AM — until it broadcasts his.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1317162831485678/2342c4d8-6dd8-4432-a948-b0776d67274b/ep-6103bedb-0129-48ce-8237-c9768c752f1a.mp3" length="11489701" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-6103bedb-0129-48ce-8237-c9768c752f1a</guid>
+    <pubDate>Mon, 05 Oct 2026 14:01:28 +0000</pubDate>
+    <itunes:duration>1436</itunes:duration>
+    <itunes:author>Flavio Garcia</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
